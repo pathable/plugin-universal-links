@@ -12,9 +12,9 @@
 	<issue>https://github.com/fairmanager-cordova/plugin-universal-links/issues</issue>
 
 	<engines>
-		<engine name="cordova" version=">=8.0.0"/>
-		<engine name="cordova-android" version=">=7.1.1"/>
-		<engine name="cordova-ios" version=">=4.5.5"/>
+		<engine name="cordova" version=">=7.1.0"/>
+		<engine name="cordova-android" version=">=6.4.0"/>
+		<engine name="cordova-ios" version=">=4.5.4"/>
 	</engines>
 
 	<hook src="hooks/afterPrepareHook.js" type="after_prepare"/>
